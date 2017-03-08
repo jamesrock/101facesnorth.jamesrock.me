@@ -1,2 +1,7 @@
 # 101facesnorth.jamesrock.me
-a tool that helps make a certain magic trick easier to perform
+
+a tool designed to help make a certain magic trick easier to perform
+
+## 101 faces north
+
+details to follow...
